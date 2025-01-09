@@ -1,0 +1,19 @@
+Example 1 input:  I0,I4,Q8
+Example 1 output: 1
+
+Example 2 input:  T1,Z3,I4
+Example 2 output: 4
+
+Example 3 input:  Q0,I2,I6,I0,I6,I6,Q2,Q4
+Example 3 output: 3
+
+2
+1
+4
+3
+4
+7
+13
+25
+18
+22
